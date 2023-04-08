@@ -2,8 +2,16 @@
 💻 Web developer with expertise in React.<br>🌐 Strong experience in web development, including front-end and back-end technologies.<br>📚 Continuous learner, always eager to stay updated with the latest trends and technologies in the field.<br>💡 Passionate about problem-solving and creating efficient and elegant solutions.<br>🎨 Keen eye for design and a focus on delivering seamless user experiences
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ fariahh-basha-aspiring-developer) 
+## Contact Me
+📧 Email: fariahh999@gmail.com
+💼 LinkedIn: www.linkedin.com/in/
+fariahh-basha-aspiring-developer
+🌐 Portfolio: [Your Portfolio Website URL]
+![HackerRank](https://img.shields.io/badge/HackerRank-fariahh999-brightgreen?style=flat&logo=hackerrank)
+![LeetCode](https://img.shields.io/badge/LeetCode-fariahh999-yellow?style=flat&logo=leetcode)
+
+
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -20,5 +28,12 @@
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
+
+## Let's Connect!
+I'm always excited to connect with fellow developers, share ideas, and collaborate on interesting projects. Don't hesitate to reach out to me through email, LinkedIn, or by visiting my portfolio website. Let's build amazing things together!
+
+Thanks for visiting my GitHub profile. Happy coding! 🚀💻
+
+
 
 ---
