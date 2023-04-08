@@ -6,7 +6,6 @@
 # 🤝🏻 Connect with Me
 - [HackerRank](https://www.hackerrank.com/fariahh999)
 - [LeetCode](https://leetcode.com/fariahh999)
-- [E-box](https://pro.e-box.co.in/user/profile)
 - [LinkedIn](https://www.linkedin.com/in/fariahh-basha-aspiring-developer)
 - [Gmail](mailto:fariahh999@gmail.com)
 -  [Portfolio](Your Website URL)
