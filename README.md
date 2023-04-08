@@ -3,12 +3,12 @@
 
 
 ## Contact Me
-📧 Email: fariahh999@gmail.com
-💼 LinkedIn: www.linkedin.com/in/
-fariahh-basha-aspiring-developer
-🌐 Portfolio: [Your Portfolio Website URL]
-![HackerRank](https://img.shields.io/badge/HackerRank-fariahh999-brightgreen?style=flat&logo=hackerrank)
-![LeetCode](https://img.shields.io/badge/LeetCode-fariahh999-yellow?style=flat&logo=leetcode)
+📧 ![Email]fariahh999@gmail.com </br>
+💼 ![LinkedIn] www.linkedin.com/in/  </br>
+fariahh-basha-aspiring-developer </br>
+🌐 ![Portfolio][Your Portfolio Website URL] </br>
+![HackerRank](https://www.hackerrank.com/fariahh999) </br>
+![LeetCode](https://leetcode.com/fariahh999/) </br>
 
 
 
