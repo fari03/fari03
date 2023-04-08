@@ -4,8 +4,7 @@
 
 ## Contact Me
 📧 Email: fariahh999@gmail.com </br>
-💼 LinkedIn: www.linkedin.com/in/  </br>
-fariahh-basha-aspiring-developer </br>
+💼 LinkedIn: www.linkedin.com/in/fariahh-basha-aspiring-developer </br>
 🌐 Portfolio: [Your Portfolio Website URL] </br>
 - [HackerRank](https://www.hackerrank.com/fariahh999)</br>
 - [LeetCode](https://leetcode.com/fariahh999)</br>
