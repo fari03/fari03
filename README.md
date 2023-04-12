@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 💻 Web developer with expertise in React.<br>🌐 Strong experience in web development, including front-end and back-end technologies.<br>📚 Continuous learner, always eager to stay updated with the latest trends and technologies in the field.<br>💡 Passionate about problem-solving and creating efficient and elegant solutions.<br>🎨 Keen eye for design and a focus on delivering seamless user experiences
-<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/116770475/Animated-illustrations">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15628402-Working-on-a-Project">
 
 # 🤝🏻 Connect with Me
 - [HackerRank](https://www.hackerrank.com/fariahh999)
