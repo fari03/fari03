@@ -1,4 +1,4 @@
-[![MasterHead](1.jpg)]
+[![MasterHead](bgm.jpg)]
 <h1 align="center">Hi 👋, I'm Fariahh Basha</h1>
 <h3 align="center">"Passionate Frontend Developer | Crafting Responsive & User-Friendly Web Experiences</h3>
 <img align="right" alt="coding" wifth="400" src="
