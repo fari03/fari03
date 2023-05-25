@@ -1,4 +1,4 @@
-[![Masthead Banner](https://github.com/fari03/fari03/blob/main/bgm.jpg)](https://github.com/fari03/fari03/blob/main/bgm1.jpg)
+[![Masthead Banner](https://github.com/fari03/fari03/main/bgm.jpg)](https://github.com/fari03/fari03/main/bgm1.jpg)
 
 <h1 align="center">Hi 👋, I'm Fariahh Basha</h1>
 <h3 align="center">Passionate Frontend Developer | Crafting Responsive & User-Friendly Web Experiences</h3>
