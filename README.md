@@ -82,14 +82,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fari03&show_icons=true&locale=en&layout=compact" alt="fari03" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fari03&show_icons=true&locale=en" alt="fari03" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fari03&" alt="fari03" />
-</p>
 
 <!-- GitHub Stats Section -->
 <p align="center">
