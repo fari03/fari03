@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 - 📫 How to reach me: fariahh999@gmail.com
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/fariahh-basha" target="_blank">
@@ -20,7 +19,7 @@
   <a href="https://www.hackerrank.com/fariahh999" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://www.codingninjas.com/profiles/in/fari03" target="_blank">
+  <a href="https://www.codingninjas.com/profiles/in/fariahh999" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/coding-ninjas.svg" alt="Coding Ninjas" height="30" width="40" />
   </a>
 </p>
