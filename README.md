@@ -1,4 +1,7 @@
 <!-- Header Section -->
+
+[![Masthead Banner](https://raw.githubusercontent.com/fari03/fari03/main/bgm1.jpg)](https://raw.githubusercontent.com/fari03/fari03/main/bgm1.jpg)
+
 <p align="center">
   <a href="https://raw.githubusercontent.com/fari03/fari03/main/bgm1.jpg" target="_blank">
     <img src="https://raw.githubusercontent.com/fari03/fari03/main/bgm1.jpg" alt="Masthead Banner" width="100%">
