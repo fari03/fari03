@@ -25,16 +25,41 @@
 </p>
 
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="no-referrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
   </a>
-  <!-- Add more icons here -->
+  <a href="https://www.java.com/" target="_blank" rel="no-referrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="no-referrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="no-referrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="no-referrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="no-referrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="no-referrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="no-referrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fari03&show_icons=true&locale=en&layout=compact" alt="fari03" /></p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fari03&show_icons=true&locale=en&layout=compact" alt="fari03" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fari03&show_icons=true&locale=en" alt="fari03" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fari03&show_icons=true&locale=en" alt="fari03" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fari03&" alt="fari03" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fari03&" alt="fari03" /></p>
