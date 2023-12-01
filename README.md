@@ -1,4 +1,6 @@
 # 💫 About Me:
+Hi there! 👋 I'm Fariahh Basha, a passionate front-end developer with a knack for crafting responsive and user-friendly web experiences. I'm currently on a journey to master the MERN stack and enhance my skills in building robust and scalable web applications.
+
 🚀 I'm currently honing my skills in React.js to create dynamic and interactive user interfaces.<br><br>💡 Exploring the world of backend development with Node.js and Express to build robust server-side applications.<br><br>📚 Learning new technologies and staying updated with the latest trends in web development.<br><br>🔍 Interested in web development? Front-end technologies? Feel free to ask me anything related to HTML5, CSS3, JavaScript, React.js, or building modern web applications.<br><br>🎉 I enjoy exploring new coding challenges and finding creative solutions. Outside of coding, you might find me experimenting with new recipes in the kitchen or taking long walks while listening to podcasts.<br>
 
 
