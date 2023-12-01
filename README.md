@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/fari03/fari03/main/bgm1.jpg)
+![Header](https://raw.githubusercontent.com/fari03/fari03/main/banner.jpg)
 
 
 # 💫 About Me:
