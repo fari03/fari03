@@ -1,5 +1,5 @@
 <!-- Masthead Banner -->
-[![Masthead Banner](https://raw.githubusercontent.com/fari03/fari03/main/bgm.jpg)](https://raw.githubusercontent.com/fari03/fari03/main/bgm.jpg)
+[![Masthead Banner](https://raw.githubusercontent.com/fari03/fari03/main/bgm1.jpg)](https://raw.githubusercontent.com/fari03/fari03/main/bgm1.jpg)
 
 # 💫 About Me:
 Hi there! 👋 I'm Fariahh Basha, a passionate front-end developer with a knack for crafting responsive and user-friendly web experiences. I'm currently on a journey to master the MERN stack and enhance my skills in building robust and scalable web applications.
