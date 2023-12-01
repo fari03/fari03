@@ -1,5 +1,4 @@
-<!-- Masthead Banner -->
-[![Masthead Banner](https://github.com/fari03/fari03/blob/main/banner.jpg)](https://github.com/fari03/fari03/blob/main/banner.jpg)
+![Header](https://raw.githubusercontent.com/fari03/fari03/main/bgm1.jpg)
 
 
 # 💫 About Me:
