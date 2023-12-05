@@ -1,4 +1,4 @@
-[![MasterHead](https://fari03.github.io/Premium-Delivery/web.gif)](http://primeit.elementfx.com)
+
 <h1 align="center">Hi 👋, I'm Fariahh Basha</h1>
 <h3 align="center">A Passionate Front-end developer with a knack for crafting responsive and user-friendly web experiences </h3>
 
